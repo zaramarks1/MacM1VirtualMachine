@@ -1,4 +1,4 @@
-# MacM1VirtualMachine
+# Ubuntu Virtual Machine with Vagrant for Mac M1/M2 
 If you need to install a Linux Virtual Machine using Vagrant on your Mac M1/M2 and do not want to pay for Parallels, I have the solution. Follow the tutorial
 
 # Problem 
